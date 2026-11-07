@@ -1,0 +1,2 @@
+Bu dosya sadece Copilot'u çağırmak için var.
+Merhaba Copilot, bu kodu incele ve ne kadar saçma olduğunu söyle.
